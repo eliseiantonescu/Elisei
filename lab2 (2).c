@@ -8,7 +8,7 @@ int function(int x){
         else
         x=function(x);
 }
-
+// nu imi place cum programezi, adauga si tu comentarii sa stiu si eu ce fac chestiile astea
 int main(){
 	int a=30, i=0;
 
